@@ -1,0 +1,3 @@
+[{"id":1,"username":"gagan","password":"gagan","birthdate":"","age":99,"email":"gagan@gmail.com","valid":true,"type":"supp","groupadmin":true,"grouplist":[],"admingrouplist":["zz"]},
+{"id":2,"username":"hira","password":"","birthdate":"2/1/91","age":"99","email":"hira@yahoo.comm","valid":true,"type":"admin","groupadmin":false,"gourplist":[],"admingrouplist":[]},
+{"id":3,"username":"sky","password":"","birthdate":"14/10/1947","age":23,"email":"sky@gmail.com","groupadmin":true}]s
